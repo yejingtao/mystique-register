@@ -1,0 +1,6 @@
+运维自动化服务-服务注册
+
+请根据实际情况修改注册地址:eureka.client.serviceUrl.defaultZone
+请根据实际情况修改日志地址:logging.file
+
+可以让eureka互相注册实现高可用
